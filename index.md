@@ -1,5 +1,17 @@
 ## Welcome to GitHub Pages
 
+[Create a profile](Create-profile.html)
+
+[Log into App](Login.html)
+
+[Create an original post](Create-post.html)
+
+[Comment on a post](Comment.html)
+
+[Search for a post](Search.html)
+
+[Logout of App](Logout.html)
+
 You can use the [editor on GitHub](https://github.com/prajwal5174/Investing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
